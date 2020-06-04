@@ -3,7 +3,7 @@
 Alunos:
 
   - Andre Versolato - andrerv@al.insper.edu.br
-  - Gabriel Mitelman Tkacz - fernandoba2@al.insper.edu.br
+  - Gabriel Mitelman Tkacz - gabrielmt2@al.insper.edu.br
   - Rafael Ribeiro da Silva - rafaelrs9@al.insper.edu.br
   
 Professores:
