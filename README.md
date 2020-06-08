@@ -4,7 +4,7 @@ Junho de 2020
 
 Alunos:
 
-  - Andre Versolato - andrerv@al.insper.edu.br
+  - Andre Rodrigues Versolato - andrerv@al.insper.edu.br
   - Gabriel Mitelman Tkacz - gabrielmt2@al.insper.edu.br
   - Rafael Ribeiro da Silva - rafaelrs9@al.insper.edu.br
   
